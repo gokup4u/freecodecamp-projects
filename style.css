@@ -1,0 +1,16 @@
+#img-caption {
+    font-style: italic;
+    margin-top: 0;
+    text-align: center;
+  }
+
+  #img-div {
+    align-content: center;
+    margin-left: auto;
+  }
+
+  #image {
+    width: 100%;
+    height: auto;
+    display: block;
+    max-width: 640px;
